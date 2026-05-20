@@ -18,7 +18,7 @@ Estos son algunos de los proyectos que estoy desarrollando y que reflejan mi int
 
 *   **[42 Piscine C](https://github.com/fenreitsu/42_Piscine_C)**: Un repositorio que documenta los proyectos que desarrollé durante la intensiva **Piscina de C** de la escuela 42. Una experiencia maravillosa de dedicación y aprendizaje profundo.
 *   **[Vulnet](https://github.com/fenreitsu/Vulnet)**: Un escáner de seguridad para terminal que ejecuta 21 herramientas típicas de auditoría contra IP/dominio/URL
-*   **[FEN-IDPS](https://github.com/fenreitsu/FEN-IPDS)**: Gestor de suricata para Linux, permite creacion, control de reglas, monitoreo en tiempo real y cambio de modo IDS - IPS, todo integrado en la misma herrramienta
+*   **[FEN-IDPS](https://github.com/fenreitsu/FEN-IDPS)**: Gestor de suricata para Linux, permite creacion, control de reglas, monitoreo en tiempo real y cambio de modo IDS - IPS, todo integrado en la misma herrramienta
 *   **[FEN-Bloat](https://github.com/fenreitsu/FEN-Bloat)**: Un debloat que te permite eliminar aplicaciones preinstaladas no deseadas, instalar Utilities Programs, desactivar la telemetria de Microsoft, etc.
 *   **[FEN-Admin](https://github.com/fenreitsu/FEN-Admin)**: Una interfaz gráfica diseñada para **facilitar la administración y control de usuarios** en un sistema. Fue hecho con la intención de replicar el funcionamiento de la herramienta base de Users and Gropus de Kali-Linux, además tiene unas mejoras y mas personalización.
 
